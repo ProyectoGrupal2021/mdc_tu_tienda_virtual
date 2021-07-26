@@ -1,1 +1,0 @@
-# mdc_tu_tienda_virtual
